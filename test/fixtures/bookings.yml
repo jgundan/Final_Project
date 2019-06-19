@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  Name: MyString
+  check_in: 2019-06-18 22:09:09
+  check_out: 2019-06-18 22:09:09
+  Quantity: 1
+
+two:
+  Name: MyString
+  check_in: 2019-06-18 22:09:09
+  check_out: 2019-06-18 22:09:09
+  Quantity: 1
